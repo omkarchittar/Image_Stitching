@@ -1,4 +1,6 @@
 # **Image Stitching**
+![image1](outputs/page1.jpg)
+![image2](outputs/page2.jpg)
 
 ## **File Tree**
 
